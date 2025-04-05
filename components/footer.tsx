@@ -80,7 +80,7 @@ export default function Footer() {
 
           <div>
             <h4 className="text-lg font-semibold mb-4">Subscribe</h4>
-            <p className="text-gray-600 mb-4">Stay updated with our latest events and news.</p>
+            <p className="text-gray-600 mb-4">Stay updated with our latest events and news.Stay tuned with us for exciting updates.</p>
             <form className="space-y-2">
               <input
                 type="email"
